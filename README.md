@@ -17,10 +17,5 @@ Desenvolvedor Full-Stack Junior apaixonado por construir soluções escaláveis 
 - **Backend:** NestJS (Node.js), Prisma, Supabase, PostgreSQL.
 - **DevOps/Infra:** Docker, Git, GitHub.
 
-### 📈 Estatísticas
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=davmarques&show_icons=true&theme=radical)
-
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=davmarques&layout=compact&theme=radical)
-
 ### 📫 Vamos nos conectar?
 [LinkedIn](https://www.linkedin.com/in/davi-marques-3a513120b/)| [E-mail](mailto:davmarques27@gmail.com)
