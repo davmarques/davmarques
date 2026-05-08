@@ -5,7 +5,7 @@ Desenvolvedor Full-Stack Junior apaixonado por construir soluções escaláveis 
 ### 🚀 Sobre Mim
 - 🎓 **Educação:** Engenharia de Software (UCB).
 - 💼 **Experiência:** 1 ano com Desenvolvimento Full-Stack.
-- 🚀 Projetos em Destaque:
+- 🚀 Projetos em Destaque:  
       Briko CRM: Sistema de gestão de comissões e automação de vendas;  
       Ecossistema Institucional: Desenvolvimento de landing pages institucionais e de conversão, integradas a um sistema Full-Stack de gestão de comissões e vendas de consórcios (React/NestJS).  
       Financial360: Plataforma de finanças com UI moderna (Neumorphism).  
